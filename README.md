@@ -75,5 +75,6 @@ To run the application locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/web3-portfolio-manager.git
-   cd web3-portfolio-manager
+   git clone https://github.com/Prabhatmishra7131/Ethos_TeamH14_TheGraphProtocol_Round2_Submission.git
+   cd client
+   npm run dev
