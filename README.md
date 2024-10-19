@@ -55,7 +55,7 @@ The Graph Protocol is a decentralized indexing protocol that allows developers t
 
 ![Current Implementation](GraphQueryOP3.PNG)
 
-##[Pool & Liquidity finder](https://github.com/ramik0115/Ethos_TeamH14_LiquidityPool_Round2_Submission/tree/main)
+[Pool & Liquidity finder](https://github.com/ramik0115/Ethos_TeamH14_LiquidityPool_Round2_Submission/tree/main)
 
 ![Liquidity & Pool Finder Implementation](Liquidity.jpeg)
 
