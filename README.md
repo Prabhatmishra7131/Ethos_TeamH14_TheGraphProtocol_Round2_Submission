@@ -18,6 +18,9 @@ The Web3 Portfolio Manager is a decentralized application (dApp) designed to hel
 
 As of now, our team has successfully integrated The Graph Protocol into our Staking DApp. This integration allows us to efficiently index and query data related to staking activities, enhancing the overall functionality of the application.
 
+![Current Implementation](https://github.com/Prabhatmishra7131/Ethos_TeamH14_TheGraphProtocol_Round2_Submission/blob/main/GraphQueryOP1.png)
+
+
 ### Key Features of the Current Implementation
 
 - **Event Indexing**: The Graph Protocol is used to index key events from our smart contracts, including staking, unstaking, and reward claiming. This ensures that all relevant data is readily available for querying.
@@ -43,6 +46,8 @@ The Graph Protocol is a decentralized indexing protocol that allows developers t
 3. **Custom Subgraph Deployment**: For unique data needs, users can deploy custom subgraphs that index specific events and entities relevant to their portfolios, enabling tailored data retrieval.
 
 4. **Data Aggregation**: The Graph allows for the aggregation of data from multiple sources, making it easier to present a comprehensive view of a user's portfolio across different DeFi protocols.
+
+![Current Implementation](https://github.com/Prabhatmishra7131/Ethos_TeamH14_TheGraphProtocol_Round2_Submission/blob/main/GraphQueryOP2.png)
 
 ## Architecture
 
