@@ -78,3 +78,22 @@ To run the application locally, follow these steps:
    git clone https://github.com/Prabhatmishra7131/Ethos_TeamH14_TheGraphProtocol_Round2_Submission.git
    cd client
    npm run dev
+2. If you want to Create your Own Subraph:
+   You can install Graph CLI with either npm or yarn.
+   ```bash
+   npm install -g @graphprotocol/graph-cli
+   yarn global add @graphprotocol/graph-cli
+3. Initialising The Graph:
+   ```bash
+   graph init --studio
+   Your_Subgraph_project_name
+4. Auth & Deploy:
+   ```bash
+   graph auth --studio 
+   Your_API_Key
+5. Entering, Building & Deploying Subgraph:
+   ```bash
+   cd Your_Subgraph_project_name
+   graph codegen && graph build
+   graph deploy --studio
+   Your_Subgraph_project_name
