@@ -1,0 +1,17 @@
+specVersion: 0.0.1
+description: Staking DApp Subgraph
+repository: https://github.com/your-username/your-repo
+schema:
+  file: ./schema.graphql
+dataSources:
+  - kind: ethereum/contract
+    name: StakingContract
+    network: mainnet
+    source:
+      address: '0xYourContractAddress'
+      abi: StakingContract
+    mapping:
+      kind: ethereum/events
+      apiVersion: 0.0.5
+      language: wasm/assemblyscript
+      file: ./src/mappings/StakingContract.ts

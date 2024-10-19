@@ -1,0 +1,34 @@
+// This is the Schema for Quering Using THE Graph Protocol
+
+type Stake @entity {
+  id: ID!
+  user: User!
+  amount: BigInt!
+  timestamp: BigInt!
+  action: String! # "STAKE" or "WITHDRAW"
+}
+
+type Reward @entity {
+  id: ID!
+  user: User!
+  amount: BigInt!
+  timestamp: BigInt!
+}
+
+type User @entity {
+  id: ID!
+  totalStaked: BigInt!
+  currentStake: BigInt!
+  totalRewardsClaimed: BigInt!
+  stakes: [Stake!]! @derivedFrom(field: "user")
+  rewards: [Reward!]! @derivedFrom(field: "user")
+  lastUpdateTime: BigInt!
+}
+
+type GlobalStat @entity {
+  id: ID!
+  totalStaked: BigInt!
+  totalRewardsPaid: BigInt!
+  totalUsers: BigInt!
+  lastUpdateTime: BigInt!
+}
