@@ -48,6 +48,9 @@ The Graph Protocol is a decentralized indexing protocol that allows developers t
 
 ![Current Implementation](GraphQueryOP2.PNG)
 
+![Current Implementation](GraphQueryOP3.PNG)
+
+
 ## Architecture
 
 The architecture of the Web3 Portfolio Manager consists of the following components:
