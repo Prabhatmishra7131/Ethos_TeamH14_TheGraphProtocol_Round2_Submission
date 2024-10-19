@@ -46,7 +46,7 @@ The Graph Protocol is a decentralized indexing protocol that allows developers t
 
 4. **Data Aggregation**: The Graph allows for the aggregation of data from multiple sources, making it easier to present a comprehensive view of a user's portfolio across different DeFi protocols.
 
-![Current Implementation](https://github.com/Prabhatmishra7131/Ethos_TeamH14_TheGraphProtocol_Round2_Submission/blob/main/GraphQueryOP2.png)
+![Current Implementation](GraphQueryOP2.PNG)
 
 ## Architecture
 
