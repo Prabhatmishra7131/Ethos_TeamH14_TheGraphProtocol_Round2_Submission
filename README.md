@@ -57,6 +57,8 @@ The Graph Protocol is a decentralized indexing protocol that allows developers t
 
 [Pool & Liquidity finder](https://github.com/ramik0115/Ethos_TeamH14_LiquidityPool_Round2_Submission/tree/main)
 
+![Liquidity & Pool Finder Implementation](Liquidity.JPEG)
+
 ## Overview
 A comprehensive multi-network application designed to find and analyze Uniswap liquidity pools across different blockchain networks. Users can discover pool addresses, analyze liquidity details, and maintain a searchable history of their research across multiple networks.
 
