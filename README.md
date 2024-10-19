@@ -8,6 +8,8 @@ The Web3 Portfolio Manager is a decentralized application (dApp) designed to hel
 
 [Design Docs](https://docs.google.com/document/d/13vTueWoaVvFMswjEWkGpPaw_4czgoMVq1Ro6Z6U9PaI/edit?usp=sharing)
 
+[Proof of Concept of our work till now](https://drive.google.com/file/d/1-vMZ2Iwdj1Dj6SmCX0towfwEAQL_43Ts/view?usp=sharing)
+
 
 ## Features
 
