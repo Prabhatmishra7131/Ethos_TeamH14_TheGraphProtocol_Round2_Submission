@@ -18,7 +18,7 @@ The Web3 Portfolio Manager is a decentralized application (dApp) designed to hel
 
 As of now, our team has successfully integrated The Graph Protocol into our Staking DApp. This integration allows us to efficiently index and query data related to staking activities, enhancing the overall functionality of the application.
 
-![Current Implementation](GraphQueryOP1.png)
+![Current Implementation](GraphQueryOP1.PNG)
 
 ### Key Features of the Current Implementation
 
