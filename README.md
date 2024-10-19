@@ -4,6 +4,9 @@
 
 The Web3 Portfolio Manager is a decentralized application (dApp) designed to help users monitor, manage, and analyze their DeFi assets across various protocols. By leveraging The Graph Protocol, this application provides real-time data updates, portfolio insights, and a user-friendly interface for managing assets.
 
+[SubGraph Description](https://thegraph.com/studio/subgraph/ethos_teamh14_round2_subgraph/)
+
+
 ## Features
 
 - **Portfolio Overview Dashboard**: Displays assets across different DeFi protocols, including token balances, staking positions, and liquidity pool shares.
